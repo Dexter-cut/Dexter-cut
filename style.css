@@ -16,7 +16,7 @@ body {
 body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
-  background-image: url(/images/fondjungle.jpg);
+  background-image: url(images/fondjungle.jpg);
 }
 
 img,
@@ -77,7 +77,7 @@ main {
   border: solid;
   border-color: yellow;
   border-radius: 6px;
-  background: url(/images/fondbanana.jpg);
+  background: url(images/fondbanana.jpg);
   margin-top: 40px;
   justify-content: center;
   box-shadow: 5px 10px 3px rgb(54, 53, 53);
@@ -169,7 +169,7 @@ h1 {
 
 .texte-parents {
   grid-area: texte-parents;
-  background: url(/images/fondbanana.jpg);
+  background: url(images/fondbanana.jpg);
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   color: black;
   text-shadow: 0px 0px 3px yellow;
@@ -184,7 +184,7 @@ h1 {
 
 .texte-soeurs {
   grid-area: texte-soeurs;
-  background: url(/images/fondbanana.jpg);
+  background: url(images/fondbanana.jpg);
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   color: black;
   text-shadow: 0px 0px 3px yellow;
@@ -203,7 +203,7 @@ h1 {
 
 .texte-moi {
   grid-area: texte-moi;
-  background: url(/images/fondbanana.jpg);
+  background: url(images/fondbanana.jpg);
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   color: black;
   text-shadow: 0px 0px 3px yellow;
@@ -224,7 +224,7 @@ h1 {
 }
 
 .containerform {
-  background: url(/images/fondbanana.jpg);
+  background: url(images/fondbanana.jpg);
   height: auto;
   width: 90%;
   border: 1px;
@@ -324,7 +324,7 @@ h1 {
   height: auto;
   margin: auto;
   margin-top: 10%;
-  background: url(/images/fondbanana.jpg);
+  background: url(images/fondbanana.jpg);
   border-color: black;
   border: solid;
   border-radius: 3px;
